@@ -1,4 +1,4 @@
-name: Node CI
+name: Build & Deploy
 
 on:
   push:
@@ -22,3 +22,10 @@ jobs:
     
     - name: gatsby build
       run: npm run-script build
+      
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v2
+      env: 
+        ACTIONS_DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./public
