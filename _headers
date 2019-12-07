@@ -1,0 +1,291 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-5efb7b8fb8a6286e0a5c.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.d1548a311d69100e24ba.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-c7182faa4668bce8648b.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-1de94ad361c8798f7234.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-not-found-template-js-d18bc7fdbbbeafd2856e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-list-template-js-be68217ed63783d1c1d4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-categories-list-template-js-e97b02a703e670b1d2f6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-6fe82ce3ec2fed85f4eb.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-template-js-eb2622e9ddc24503ebfc.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-6855110f1524b8830d5b.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-dffa209a81cebefe6a61.js
+  Cache-Control: public, max-age=31536000, immutable
+/netlify-identity-widget-acb9f9e58c1eda4b61ce.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-ec4157f6023fa92098cc.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5efb7b8fb8a6286e0a5c.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-not-found-template-js-d18bc7fdbbbeafd2856e.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-list-template-js-be68217ed63783d1c1d4.js>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-categories-list-template-js-e97b02a703e670b1d2f6.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-not-found-template-js-d18bc7fdbbbeafd2856e.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js>; rel=preload; as=script
+/posts/perfecting-the-art-of-perfection/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-6fe82ce3ec2fed85f4eb.js>; rel=preload; as=script
+/posts/the-origins-of-social-stationery-lettering
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-6fe82ce3ec2fed85f4eb.js>; rel=preload; as=script
+/posts/a-brief-history-of-typography/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-6fe82ce3ec2fed85f4eb.js>; rel=preload; as=script
+/posts/humane-typography-in-the-digital-age/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-6fe82ce3ec2fed85f4eb.js>; rel=preload; as=script
+/posts/the-birth-of-movable-type/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-6fe82ce3ec2fed85f4eb.js>; rel=preload; as=script
+/tag/design
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/gatsby
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/handwriting
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/helvetica
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/history-of-typography
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/learning-to-write
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/linotype
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/monotype
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/open-source
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/typography
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/tag/web-development
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-b5c4d92b0d8fd39aec7b.js>; rel=preload; as=script
+/category/design-culture
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-eb2622e9ddc24503ebfc.js>; rel=preload; as=script
+/category/design-inspiration
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-eb2622e9ddc24503ebfc.js>; rel=preload; as=script
+/category/typography
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-eb2622e9ddc24503ebfc.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-index-template-js-6855110f1524b8830d5b.js>; rel=preload; as=script
+/page/1
+  Link: </webpack-runtime-dffa209a81cebefe6a61.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-acb9f9e58c1eda4b61ce.js>; rel=preload; as=script
+  Link: </app-ec4157f6023fa92098cc.js>; rel=preload; as=script
+  Link: </styles-c7182faa4668bce8648b.js>; rel=preload; as=script
+  Link: </commons-1de94ad361c8798f7234.js>; rel=preload; as=script
+  Link: </component---src-templates-index-template-js-6855110f1524b8830d5b.js>; rel=preload; as=script
